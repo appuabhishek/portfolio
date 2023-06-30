@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appuabhishek.github.io/portfolio/static/css/main.3c6583ec.css",
+    "main.js": "/appuabhishek.github.io/portfolio/static/js/main.6d3ff5df.js",
+    "static/media/me.png": "/appuabhishek.github.io/portfolio/static/media/me.ba4a6537d737aae0d5de.png",
+    "static/media/code2.png": "/appuabhishek.github.io/portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
+    "index.html": "/appuabhishek.github.io/portfolio/index.html",
+    "main.3c6583ec.css.map": "/appuabhishek.github.io/portfolio/static/css/main.3c6583ec.css.map",
+    "main.6d3ff5df.js.map": "/appuabhishek.github.io/portfolio/static/js/main.6d3ff5df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6583ec.css",
+    "static/js/main.6d3ff5df.js"
+  ]
+}
